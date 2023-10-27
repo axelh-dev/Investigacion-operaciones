@@ -6,4 +6,5 @@
 3. Gerson Natanael Hernandez Aldana
 4. Axel Emiliano Herrera Muñoz
 5. Carlos Eduardo Hernández Lecointe
+6. Josue Benjamin Aldana Ramos 
 ------------
